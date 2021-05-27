@@ -17,7 +17,7 @@ const heroes = [
     },
     {
       nombre: "ironman",
-      equipo: "vengadores",
+      equipo: "new vengadores",
     },
   ];
   
